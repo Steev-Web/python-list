@@ -11,12 +11,10 @@ This repository contains the solutions and exercises for the Week 2 Python assig
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/Steev-Web/python-list.git>
     ```
 2. Navigate to the project directory:
-    ```bash
-    cd python/week-2-assignment
-    ```
+
 3. Run the Python scripts using:
     ```bash
     python <list>.py
@@ -28,7 +26,7 @@ This repository contains the solutions and exercises for the Week 2 Python assig
 
 ## Author
 
-- Your Name
+- Stephen Adeniyi
 
 ## License
 
